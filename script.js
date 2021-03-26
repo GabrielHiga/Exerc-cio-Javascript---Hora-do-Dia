@@ -23,3 +23,4 @@ function carregar(){
         document.body.style.background = '#2237db'
     }
 }
+//New 2.2
